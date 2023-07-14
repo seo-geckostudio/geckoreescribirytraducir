@@ -1,0 +1,728 @@
+2023-04-18 12:11:14 - Solicitando API - Post ID: 460937, Prompt: Reescribe este contenido: 
+ 
+2023-04-18 12:11:14 - Respuesta API - Body: Clave incorrecta
+2023-04-18 12:11:41 - Solicitando API - Post ID: 460937, Prompt: Reescribe este contenido: 
+ 
+2023-04-18 12:11:41 - Respuesta API - Body: Clave incorrecta
+2023-04-18 12:16:48 - Solicitando API - Post ID: 460937, Prompt: Reescribe este contenido: 
+ 
+2023-04-18 12:16:48 - Respuesta API - Body: Clave incorrecta pero host correcto
+2023-04-18 12:25:07 - Solicitando API - Post ID: 460937, Prompt: Reescribe este contenido: 
+ 
+2023-04-18 12:25:11 - Respuesta API - Body: {"response":"\n\nInmobiliaria para alquilar pisos, apartamentos, casas y villas en Ibiza y Formentera\nSi lo que busca es alquilar una propiedad, hemos simplificado la b\u00fasqueda con las siguientes secciones:\n\nAlquiler de apartamentos en Ibiza y Formentera. Perfectas como alojamiento o como inversi\u00f3n, los apartamentos en venta cumplir\u00e1n con todas las garant\u00edas que ofrece nuestro asesoramiento en inmuebles.\nAlquiler de casas y villas en"}
+2023-04-18 12:28:03 - Solicitando API - Post ID: 460937, Prompt: Reescribe este contenido: 
+ 
+2023-04-18 12:28:08 - Respuesta API - Body: {"response":" En nuestra secci\u00f3n de comerciales le ofrecemos un amplio cat\u00e1logo de locales en Ibiza y Formentera.\n\nInmobiliaria para el alquiler de pisos, apartamentos, casas y villas en Ibiza y Formentera\n\nAlquiler de apartamentos en Ibiza y Formentera. Disponemos de un amplio cat\u00e1logo de apartamentos para alquilar en Ibiza y Formentera, perfectos para sus vacaciones o para estancias m\u00e1s largas.\nAlquiler de casas y villas en Ibiza y Formentera. Si bus"}
+2023-04-18 12:49:46 - Solicitando API - Post ID: 460937, Prompt: Reescribe este contenido: 
+ 
+2023-04-18 12:52:59 - Solicitando API - Post ID: 460937, Prompt: Reescribe este contenido: 
+ 
+2023-04-18 12:53:04 - Respuesta API - Body: {"response":"\n\nInmobiliaria para el alquiler de pisos, apartamentos, casas y villas en Ibiza y Formentera\nIbiza Services es tu agencia de alquiler en Ibiza y Formentera. Ofrecemos un amplio cat\u00e1logo de propiedades para disfrutar de unas vacaciones inolvidables en Ibiza o Formentera.\n\nAlquiler de apartamentos en Ibiza y Formentera. Disponemos de un amplio cat\u00e1logo de apartamentos para alquilar en Ibiza y Formentera. Encuentre su apartamento perfecto en nuestra"}
+2023-04-18 12:54:26 - Solicitando API - Post ID: 460937, Prompt: Reescribe este contenido: 
+ 
+2023-04-18 12:54:31 - Respuesta API - Body: {"response":"\n\nInmobiliaria para alquiler de apartamentos, casas y villas en Ibiza, Formentera y Mallorca\nSi lo que necesita es alquilar una propiedad, esta es su secci\u00f3n. Encontrar\u00e1 una amplia oferta de:\n\nAlquiler de apartamentos en Ibiza y Formentera. Si busca un apartamento para alquilar tanto para vacaciones como para estancias m\u00e1s largas, esta es su secci\u00f3n.\nAlquiler de casas y villas en Ibiza y Formentera. Encuentre la casa perfecta"}
+2023-04-19 11:03:11 - Solicitando API - Post ID: 460943, Prompt: Reescribe este contenido: 
+ 
+2023-04-19 11:03:15 - Respuesta API - Body: {"response":"\n\nInmobiliaria para el alquiler de pisos, apartamentos, casas y villas en Ibiza y Formentera\nSi lo que est\u00e1 buscando es alquilar una propiedad, le ayudaremos a encontrar:\n\nAlquiler de apartamentos en Ibiza y Formentera. Amplio cat\u00e1logo de apartamentos de alquiler en Ibiza y Formentera, perfectos para unas vacaciones en familia, con amigos o en pareja.\nAlquiler de casas y villas en Ibiza y Formentera. Encuentre la casa o villa"}
+2023-04-19 11:34:08 - Solicitando API - Post ID: 460943, Prompt: Reescribe este contenido: 
+ This stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.
+
+A/C.
+
+Covered parking place included.
+
+Electricity and water bills a part.
+
+Available from 01 th of May till end of October: 20.000€, 1 month deposit, 1 month providing funds, 1 month agency fees.
+2023-04-19 11:34:12 - Respuesta API - Body: {"response":" Encu\u00e9ntrelo aqu\u00ed.\n\nInmobiliaria para alquilar pisos, apartamentos, casas y villas en Ibiza y Formentera\nSi lo que busca es una propiedad para alquilar, le proponemos visitar nuestra secci\u00f3n de:\n\nAlquiler de apartamentos en Ibiza y Formentera. Perfectos para unas vacaciones inolvidables, disfrute de nuestros apartamentos en alquiler.\nAlquiler de casas y villas en Ibiza y Formentera. Si lo que busca es una casa de veraneo en Ib"}
+2023-04-19 11:39:54 - Solicitando API - Post ID: 460943, Prompt: Reescribe este contenido: 
+ This stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.
+
+A/C.
+
+Covered parking place included.
+
+Electricity and water bills a part.
+
+Available from 01 th of May till end of October: 20.000€, 1 month deposit, 1 month providing funds, 1 month agency fees.
+2023-04-19 11:39:57 - Respuesta API - Body: {"response":"\r\n\r\nThis apartment is in a stunning location in Cala de Bou, just a stone's throw away from the beautiful beach and shops and amenities. The apartment has a comfy interior, with one bathroom, an open-plan kitchen, a living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area. With its enviable location and features, this apartment would be perfect for those seeking a quite and convenient stay for the summer season."}
+2023-04-19 11:44:15 - Solicitando API - Post ID: 460943, Prompt: Reescribe este contenido: 
+ This stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.
+
+A/C.
+
+Covered parking place included.
+
+Electricity and water bills a part.
+
+Available from 01 th of May till end of October: 20.000€, 1 month deposit, 1 month providing funds, 1 month agency fees.
+2023-04-19 11:44:19 - Respuesta API - Body: {"response":"\r\n\r\nEste fabuloso apartamento de 2 dormitorios se encuentra en la deseable zona de Cala de Bou, a pocos pasos de la hermosa playa y una variedad de tiendas y servicios. El apartamento cuenta con un interior acogedor, con un ba\u00f1o, una cocina americana totalmente equipada, una bonita sala de estar con una terraza, y una amplia terraza en la azotea con equipo de ejercicio y un \u00e1rea de descanso para una relajaci\u00f3n \u00faltima. La"}
+2023-04-19 11:48:48 - Solicitando API - Post ID: 460334, Prompt: Reescribe este contenido: 
+ <strong>Impresionante Ático frente al mar en venta</strong>
+
+Una escapada romántica a su propio retiro junto al mar con este impresionante ático, ahora en el mercado. Este ático totalmente amueblado cuenta con 120 metros cuadrados de espacio habitable interior, junto con 80 metros cuadrados adicionales de espacio en la terraza, con vistas al impresionante frente marítimo. Situada en una zona tranquila, esta propiedad está a pocos pasos de encantadoras tiendas, acogedores cafés y románticos restaurantes. Además, las playas y calas más hermosas de la costa oeste, como Cala Bassa y Cala Conta, se encuentran a pocos minutos en coche del apartamento. Disfrute de los impresionantes paisajes de la costa de Ibiza y de las aguas cristalinas del Mediterráneo en estas playas de renombre internacional.
+
+Este elegante ático cuenta con una amplia sala de estar, una cocina totalmente equipada, tres habitaciones dobles, dos baños completos y dos terrazas con acceso directo desde la sala de estar y las habitaciones. La terraza ofrece vistas despejadas del mar, perfectas para disfrutar de inolvidables puestas de sol con su ser querido.
+
+El edificio incluye fantásticas comodidades, como una piscina y una lavandería abierta las 24 horas del día, los 7 días de la semana. La ubicación del ático brinda una sensación de exclusividad, lo que le permite sumergirse en un ambiente pacífico y romántico.
+
+No se pierda la oportunidad de poseer su propia escapada romántica junto al mar. Planifique una visita hoy mismo y experimente la esencia de la vida costera romántica.
+2023-04-19 11:48:52 - Respuesta API - Body: {"response":"\r\n\r\nThis elegant penthouse features a spacious living room, a fully equipped kitchen, three double bedrooms, two full bathrooms, and two terraces with direct access from the living room and bedrooms. The terrace offers unobstructed views of the sea, perfect for enjoying unforgettable sunsets with your loved one.\r\n\r\nThe building includes fantastic amenities such as a swimming pool and a laundry room open 24 hours a day, 7 days a week. The location of the penthouse provides a sense of exclusivity, allowing you to immerse yourself in a peaceful and romantic setting.\r\n\r\nDon't miss the opportunity to own your own romantic getaway by the sea. Schedule a visit today and experience the essence of romantic coastal"}
+2023-04-19 11:53:56 - Solicitando API - Post ID: 460334, Prompt: Reescribe este contenido en el código de lenguaje es_ES 
+ <strong>Impresionante Ático frente al mar en venta</strong>
+
+Una escapada romántica a su propio retiro junto al mar con este impresionante ático, ahora en el mercado. Este ático totalmente amueblado cuenta con 120 metros cuadrados de espacio habitable interior, junto con 80 metros cuadrados adicionales de espacio en la terraza, con vistas al impresionante frente marítimo. Situada en una zona tranquila, esta propiedad está a pocos pasos de encantadoras tiendas, acogedores cafés y románticos restaurantes. Además, las playas y calas más hermosas de la costa oeste, como Cala Bassa y Cala Conta, se encuentran a pocos minutos en coche del apartamento. Disfrute de los impresionantes paisajes de la costa de Ibiza y de las aguas cristalinas del Mediterráneo en estas playas de renombre internacional.
+
+Este elegante ático cuenta con una amplia sala de estar, una cocina totalmente equipada, tres habitaciones dobles, dos baños completos y dos terrazas con acceso directo desde la sala de estar y las habitaciones. La terraza ofrece vistas despejadas del mar, perfectas para disfrutar de inolvidables puestas de sol con su ser querido.
+
+El edificio incluye fantásticas comodidades, como una piscina y una lavandería abierta las 24 horas del día, los 7 días de la semana. La ubicación del ático brinda una sensación de exclusividad, lo que le permite sumergirse en un ambiente pacífico y romántico.
+
+No se pierda la oportunidad de poseer su propia escapada romántica junto al mar. Planifique una visita hoy mismo y experimente la esencia de la vida costera romántica.
+2023-04-19 11:54:00 - Respuesta API - Body: {"response":"\r\n\r\n<strong>Impresionante \u00c1tico frente al mar en venta<\/strong>\r\n\r\nUna escapada rom\u00e1ntica a su propio retiro junto al mar con este impresionante \u00e1tico, ahora en el mercado. Este \u00e1tico totalmente amueblado cuenta con 120 metros cuadrados de espacio habitable interior, junto con 80 metros cuadrados adicionales de espacio en la terraza, con vistas al impresionante frente mar\u00edtimo. Situada en una zona tranquila, esta propiedad"}
+2023-04-20 05:08:59 - Solicitando API - Post ID: 460334, Prompt: Reescribe este contenido en el código de lenguaje es_ES 
+ <strong>Impresionante Ático frente al mar en venta</strong>
+
+Una escapada romántica a su propio retiro junto al mar con este impresionante ático, ahora en el mercado. Este ático totalmente amueblado cuenta con 120 metros cuadrados de espacio habitable interior, junto con 80 metros cuadrados adicionales de espacio en la terraza, con vistas al impresionante frente marítimo. Situada en una zona tranquila, esta propiedad está a pocos pasos de encantadoras tiendas, acogedores cafés y románticos restaurantes. Además, las playas y calas más hermosas de la costa oeste, como Cala Bassa y Cala Conta, se encuentran a pocos minutos en coche del apartamento. Disfrute de los impresionantes paisajes de la costa de Ibiza y de las aguas cristalinas del Mediterráneo en estas playas de renombre internacional.
+
+Este elegante ático cuenta con una amplia sala de estar, una cocina totalmente equipada, tres habitaciones dobles, dos baños completos y dos terrazas con acceso directo desde la sala de estar y las habitaciones. La terraza ofrece vistas despejadas del mar, perfectas para disfrutar de inolvidables puestas de sol con su ser querido.
+
+El edificio incluye fantásticas comodidades, como una piscina y una lavandería abierta las 24 horas del día, los 7 días de la semana. La ubicación del ático brinda una sensación de exclusividad, lo que le permite sumergirse en un ambiente pacífico y romántico.
+
+No se pierda la oportunidad de poseer su propia escapada romántica junto al mar. Planifique una visita hoy mismo y experimente la esencia de la vida costera romántica.
+2023-04-20 05:09:02 - Respuesta API - Body: {"response":"\r\n\r\n<strong>Impresionante \u00c1tico frente al mar en venta<\/strong>\r\n\r\nUna escapada rom\u00e1ntica a su propio retiro junto al mar con este impresionante \u00e1tico, ahora en el mercado. Este \u00e1tico totalmente amueblado cuenta con 120 metros cuadrados de espacio habitable interior, junto con 80 metros cuadrados adicionales de espacio en la terraza, con vistas al impresionante frente mar\u00edtimo. Situada en una zona tranquila, esta propiedad"}
+2023-04-20 05:38:47 - Solicitando API - Post ID: 460334, Prompt: Reescribe este contenido en el código de lenguaje es_ES 
+ <strong>Impresionante Ático frente al mar en venta</strong>
+
+Una escapada romántica a su propio retiro junto al mar con este impresionante ático, ahora en el mercado. Este ático totalmente amueblado cuenta con 120 metros cuadrados de espacio habitable interior, junto con 80 metros cuadrados adicionales de espacio en la terraza, con vistas al impresionante frente marítimo. Situada en una zona tranquila, esta propiedad está a pocos pasos de encantadoras tiendas, acogedores cafés y románticos restaurantes. Además, las playas y calas más hermosas de la costa oeste, como Cala Bassa y Cala Conta, se encuentran a pocos minutos en coche del apartamento. Disfrute de los impresionantes paisajes de la costa de Ibiza y de las aguas cristalinas del Mediterráneo en estas playas de renombre internacional.
+
+Este elegante ático cuenta con una amplia sala de estar, una cocina totalmente equipada, tres habitaciones dobles, dos baños completos y dos terrazas con acceso directo desde la sala de estar y las habitaciones. La terraza ofrece vistas despejadas del mar, perfectas para disfrutar de inolvidables puestas de sol con su ser querido.
+
+El edificio incluye fantásticas comodidades, como una piscina y una lavandería abierta las 24 horas del día, los 7 días de la semana. La ubicación del ático brinda una sensación de exclusividad, lo que le permite sumergirse en un ambiente pacífico y romántico.
+
+No se pierda la oportunidad de poseer su propia escapada romántica junto al mar. Planifique una visita hoy mismo y experimente la esencia de la vida costera romántica.
+2023-04-20 05:38:51 - Respuesta API - Body: {"response":"\r\n\r\n<strong>Impresionante \u00c1tico frente al mar en venta<\/strong>\r\n\r\nUna escapada rom\u00e1ntica a su propio retiro junto al mar con este impresionante \u00e1tico, ahora en el mercado. Este \u00e1tico totalmente amueblado cuenta con 120 metros cuadrados de espacio habitable interior, junto con 80 metros cuadrados adicionales de espacio en la terraza, con vistas al impresionante frente mar\u00edtimo. Situada en una zona tranquila, esta propiedad"}
+2023-04-21 08:26:44 - Solicitando API - Post ID: 460942, Prompt: Reescribe este contenido en el código de lenguaje ru_RU 
+ This stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.
+
+A/C.
+
+Covered parking place included.
+
+Electricity and water bills a part.
+
+Available from 01 th of May till end of October: 20.000€, 1 month deposit, 1 month providing funds, 1 month agency fees.
+2023-04-21 08:26:48 - Respuesta API - Body: {"response":"\r\n\r\n\u042d\u0442\u043e\u0442 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u044b\u0439 2-\u0445 \u043a\u043e\u043c\u043d\u0430\u0442\u043d\u044b\u0439 \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0436\u0435\u043b\u0430\u043d\u043d\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u041a\u0430\u043b\u0430 \u0434\u0435 \u0411\u043e\u0443, \u0432\u0441\u0435\u0433\u043e \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u043a\u0440\u0430\u0441\u0438\u0432\u043e\u0433\u043e \u043f\u043b\u044f\u0436\u0430 \u0438 \u0440\u044f\u0434\u0430 \u043c"}
+2023-04-21 08:26:49 - Solicitando API - Post ID: 460942, Prompt: Reescribe este contenido en el código de lenguaje ru_RU 
+ This stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.
+
+A/C.
+
+Covered parking place included.
+
+Electricity and water bills a part.
+
+Available from 01 th of May till end of October: 20.000€, 1 month deposit, 1 month providing funds, 1 month agency fees.
+2023-04-21 08:26:53 - Respuesta API - Body: {"response":" Este impresionante apartamento de 2 dormitorios se encuentra en la deseable zona de Cala de Bou, a pocos pasos de la hermosa playa y una gran variedad de tiendas y servicios. El apartamento cuenta con un interior acogedor, que incluye un ba\u00f1o, una cocina abierta totalmente equipada, una bonita sala de estar con una terraza y una amplia terraza en la azotea con equipamiento de gimnasio y una zona de descanso para una relajaci\u00f3n ultimate."}
+2023-04-21 09:20:27 - Solicitando API - Post ID: 460941, Prompt: Reescribe este contenido en el código de lenguaje it_IT 
+ This stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.
+
+A/C.
+
+Covered parking place included.
+
+Electricity and water bills a part.
+
+Available from 01 th of May till end of October: 20.000€, 1 month deposit, 1 month providing funds, 1 month agency fees.
+2023-04-21 09:20:30 - Respuesta API - Body: {"response":"\r\n\r\nQuesto splendido appartamento di 2 camere si trova nella zona di Cala de Bou, a pochi passi dalla bellissima spiaggia e da una serie di negozi e servizi. L'appartamento vanta un accogliente interno, con un bagno, una cucina a vista completamente attrezzata, un bel soggiorno con terrazza e una spaziosa terrazza sul tetto completa di attrezzature per il fitness e un angolo relax per il massimo relax. La residenza include anche l'accesso"}
+2023-04-21 09:20:32 - Solicitando API - Post ID: 460941, Prompt: Reescribe este contenido en el código de lenguaje it_IT 
+ This stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.
+
+A/C.
+
+Covered parking place included.
+
+Electricity and water bills a part.
+
+Available from 01 th of May till end of October: 20.000€, 1 month deposit, 1 month providing funds, 1 month agency fees.
+2023-04-21 09:20:35 - Respuesta API - Body: {"response":"\r\n\r\nThis stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.\r\n\r\n"}
+2023-04-21 09:27:13 - Solicitando API - Post ID: 460942, Prompt: Reescribe este contenido en el código de lenguaje ru_RU 
+ This stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.
+
+A/C.
+
+Covered parking place included.
+
+Electricity and water bills a part.
+
+Available from 01 th of May till end of October: 20.000€, 1 month deposit, 1 month providing funds, 1 month agency fees.
+2023-04-21 09:27:16 - Respuesta API - Body: {"response":"\r\n\n\u042d\u0442\u0430 \u043f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0430\u044f 2-\u0445 \u043a\u043e\u043c\u043d\u0430\u0442\u043d\u0430\u044f \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0430 \u0432 \u0436\u0435\u043b\u0430\u043d\u043d\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u041a\u0430\u043b\u0430-\u0434\u0435-\u0411\u0443, \u0432\u0441\u0435\u0433\u043e \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0433\u043e \u043f\u043b\u044f\u0436\u0430 \u0438 \u0440\u044f\u0434\u0430 \u043c\u0430"}
+2023-04-21 09:27:17 - Solicitando API - Post ID: 460942, Prompt: Reescribe este contenido en el código de lenguaje ru_RU 
+ This stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.
+
+A/C.
+
+Covered parking place included.
+
+Electricity and water bills a part.
+
+Available from 01 th of May till end of October: 20.000€, 1 month deposit, 1 month providing funds, 1 month agency fees.
+2023-04-21 09:27:21 - Respuesta API - Body: {"response":"\r\n\r\n\u042d\u0442\u0430 \u043f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0430\u044f 2-\u0445 \u043a\u043e\u043c\u043d\u0430\u0442\u043d\u0430\u044f \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0430 \u0432 \u0436\u0435\u043b\u0430\u043d\u043d\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u041a\u0430\u043b\u0430-\u0434\u0435-\u0411\u043e\u0443, \u0432\u0441\u0435\u0433\u043e \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u043a\u0440\u0430\u0441\u0438\u0432\u043e\u0433\u043e \u043f\u043b\u044f\u0436\u0430 \u0438 \u0440\u044f\u0434\u0430 \u043c\u0430"}
+2023-04-21 09:35:53 - Solicitando API - Post ID: 460941, Prompt: Reescribe este contenido en el código de lenguaje it_IT 
+ This stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.
+
+A/C.
+
+Covered parking place included.
+
+Electricity and water bills a part.
+
+Available from 01 th of May till end of October: 20.000€, 1 month deposit, 1 month providing funds, 1 month agency fees.
+2023-04-21 09:35:56 - Respuesta API - Body: {"response":"\r\n\r\nQuesto splendido appartamento con 2 camere da letto si trova nella zona di Cala de Bou, a pochi passi dalla bellissima spiaggia e da una serie di negozi e servizi. L'appartamento vanta un interno accogliente, con un bagno, una cucina a vista completamente attrezzata, una bella soggiorno con una terrazza e una spaziosa terrazza solarium completa di attrezzature per il fitness e un'area relax per il massimo relax. La residenza include"}
+2023-04-21 09:35:59 - Solicitando API - Post ID: 460941, Prompt: Reescribe este contenido en el código de lenguaje it_IT 
+ This stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.
+
+A/C.
+
+Covered parking place included.
+
+Electricity and water bills a part.
+
+Available from 01 th of May till end of October: 20.000€, 1 month deposit, 1 month providing funds, 1 month agency fees.
+2023-04-21 09:36:03 - Respuesta API - Body: {"response":"\r\n\r\nQuesto splendido appartamento con 2 camere da letto si trova nella zona di Cala de Bou, a pochi passi dalla bellissima spiaggia e da una serie di negozi e servizi. L'appartamento offre un interno accogliente, con un bagno, una cucina a vista completamente attrezzata, una bella soggiorno con una terrazza e una spaziosa terrazza solarium completa di attrezzature per il fitness e un'area relax per il massimo relax. La residenza include"}
+2023-04-21 09:39:47 - Solicitando API - Post ID: 460940, Prompt: Reescribe este contenido en el código de lenguaje de_DE 
+ This stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.
+
+A/C.
+
+Covered parking place included.
+
+Electricity and water bills a part.
+
+Available from 01 th of May till end of October: 20.000€, 1 month deposit, 1 month providing funds, 1 month agency fees.
+2023-04-21 09:39:50 - Respuesta API - Body: {"response":"\r\n\r\nDiese wundersch\u00f6ne 2-Zimmer-Wohnung befindet sich in der begehrten Gegend von Cala de Bou, nur einen Steinwurf vom sch\u00f6nen Strand und einer Vielzahl von Gesch\u00e4ften und Annehmlichkeiten entfernt. Die Wohnung verf\u00fcgt \u00fcber ein komfortables Interieur mit einem Badezimmer, einer offenen K\u00fcche, einem sch\u00f6nen Wohnzimmer mit Terrasse und einer ger\u00e4umigen Dachterrasse mit Trainingsger\u00e4ten und einem Chill"}
+2023-04-21 10:21:15 - Solicitando API - Post ID: 460939, Prompt: Reescribe este contenido en el código de lenguaje fr_FR 
+ This stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.
+
+A/C.
+
+Covered parking place included.
+
+Electricity and water bills a part.
+
+Available from 01 th of May till end of October: 20.000€, 1 month deposit, 1 month providing funds, 1 month agency fees.
+2023-04-21 10:21:18 - Respuesta API - Body: {"response":"\r\n\r\nCet appartement de 2 chambres \u00e0 coucher situ\u00e9 dans le quartier recherch\u00e9 de Cala de Bou, \u00e0 quelques pas de la magnifique plage et de nombreux commerces et services, est un v\u00e9ritable petit bijou. L'appartement est dot\u00e9 d'un int\u00e9rieur confortable, comprenant une salle de bain, une cuisine ouverte enti\u00e8rement \u00e9quip\u00e9e, un joli salon avec une terrasse et une spacieuse terrasse sur le toit avec des \u00e9quipements de remise en forme et un coin d"}
+2023-04-21 10:22:54 - Solicitando API - Post ID: 460938, Prompt: Reescribe este contenido en el código de lenguaje nl_NL 
+ This stunning 2-bedroom apartment is located in the desirable area of Cala de Bou, just a stone's throw away from the beautiful beach and an array of shops and amenities. The apartment boasts a comfy interior, featuring one bathroom, an open-plan kitchen fully equipped, a nice living room with a terrace, and a spacious rooftop terrace complete with workout equipment and a chill-out area for ultimate relaxation. The residence also includes access to a tranquil communal garden with a sparkling swimming pool and a children's play area, perfect for family fun in the sun. With its enviable location and features, this apartment offers the perfect home for those seeking a quite and convenient stay for the summer season.
+
+A/C.
+
+Covered parking place included.
+
+Electricity and water bills a part.
+
+Available from 01 th of May till end of October: 20.000€, 1 month deposit, 1 month providing funds, 1 month agency fees.
+2023-04-21 10:22:57 - Respuesta API - Body: {"response":"\r\n\r\nDit prachtige appartement met 2 slaapkamers ligt in de wijk Cala de Bou, op slechts enkele minuten afstand van het mooie strand en een scala aan winkels en voorzieningen. Het appartement beschikt over een comfortabele inrichting, met \u00e9\u00e9n badkamer, een open keuken, een mooie woonkamer met terras en een ruim dakterras met fitnessapparatuur en een relaxruimte voor ultieme ontspanning. In de residentie is ook"}
+2023-04-21 10:33:46 - Solicitando API - Post ID: 460694, Prompt: Reescribe este contenido en el código de lenguaje fr_FR 
+ <strong>"Appartement Confortable à Vendre dans le Village Paisible de Portinatx, au Nord d'Ibiza"</strong>
+
+Vous cherchez un appartement confortable au rez-de-chaussée dans le paisible village de Portinatx, situé au nord d'Ibiza ? Nous sommes ravis de vous présenter un superbe appartement qui sera votre refuge idéal, que ce soit pour vos vacances ou pour y habiter toute l'année.
+
+Cet appartement se trouve à seulement 200 mètres de la plage, ce qui en fait un emplacement parfait pour votre séjour. L'appartement comprend une chambre double confortable, une salle de bain avec douche et un salon cosy avec une cuisine ouverte et un bar. Cette configuration est idéale pour les couples ou les petites familles.
+
+La résidence offre toutes les commodités dont vous avez besoin pour passer un séjour agréable, notamment une grande piscine commune, un magnifique jardin et un coin barbecue où vous pourrez déguster de délicieux repas avec vos proches. L'appartement est entièrement meublé et équipé de tout ce dont vous avez besoin pour votre confort, comme la climatisation et le Wi-Fi.
+
+De plus, toutes sortes de services, de magasins, de restaurants et de bars sont accessibles à pied depuis l'appartement, ce qui en fait un emplacement très pratique. Vous pourrez profiter de la cuisine locale, explorer le village et rencontrer de nouvelles personnes tout en vivant au coeur de Portinatx.
+
+Le village de Portinatx est connu pour son atmosphère tranquille et paisible, ce qui en fait l'endroit idéal pour se détendre et échapper au stress de la vie quotidienne. Le nord d'Ibiza est également célèbre pour sa beauté naturelle époustouflante et son style de vie bohème décontracté, offrant la combinaison parfaite de détente et d'aventure.
+
+Ne manquez pas cette occasion de posséder cet appartement confortable dans le paisible village de Portinatx, au nord d'Ibiza. Contactez-nous dès aujourd'hui pour planifier une visite et faire de cet appartement votre chez-vous.
+2023-04-21 10:33:49 - Respuesta API - Body: {"response":"\r\n\r\n\r\n\"Confortable Appartement \u00e0 Vendre dans le paisible Village de Portinatx, au Nord d'Ibiza\"\r\n\r\nVous cherchez un appartement confortable au rez-de-chauss\u00e9e dans le paisible village de Portinatx, situ\u00e9 au nord d'Ibiza ? Nous sommes ravis de vous pr\u00e9senter un superbe appartement qui sera votre refuge id\u00e9al, que ce soit pour vos vacances ou pour y habiter toute l'ann\u00e9e.\r\n\r\nCet appartement se trouve \u00e0 seulement"}
+2023-04-21 10:34:32 - Solicitando API - Post ID: 460693, Prompt: Reescribe este contenido en el código de lenguaje ru_RU 
+ <strong>"Cozy Ground Floor Apartment for Sale in the Heart of Peaceful Portinatx Village, North Ibiza"</strong>
+
+Are you looking for a cozy apartment in the heart of the peaceful Portinatx village in the North of Ibiza? We present to you a beautiful apartment that will be the perfect retreat for you and your loved ones.
+
+This apartment is located just 200 meters from the beach, making it an ideal location for your holiday or permanent residence. The apartment features a comfortable double bedroom, a bathroom with shower, and a cozy living room with an open kitchen and a bar. The apartment's layout is perfect for couples or small families.
+
+The building offers all the amenities you need to enjoy your stay, including a large community pool, beautiful garden, and a barbecue area where you can enjoy delicious meals with your loved ones. The apartment is fully furnished and equipped with everything you need, including air conditioning and Wi-Fi, ensuring you have a comfortable and relaxing stay.
+
+In addition, there are all kinds of services, shops, restaurants, and bars within walking distance of the apartment, making it an incredibly convenient location. You can enjoy the local cuisine, explore the village, and meet new people while living in the heart of Portinatx village.
+
+Portinatx village is known for its tranquil and serene atmosphere, making it the perfect place to unwind and escape the stresses of daily life. The North of Ibiza is also known for its stunning natural beauty and laid-back bohemian lifestyle, providing you with the perfect combination of relaxation and adventure.
+
+Don't miss the opportunity to own this cozy ground floor apartment in the heart of the peaceful Portinatx village, North Ibiza. Contact us today to schedule a viewing and make this apartment your own.
+2023-04-21 10:34:36 - Respuesta API - Body: {"response":"\r\n\r\n\u0412\u044b \u0438\u0449\u0435\u0442\u0435 \u0443\u044e\u0442\u043d\u0443\u044e \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0443 \u0432 \u0441\u0430\u043c\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u0441\u043f\u043e\u043a\u043e\u0439\u043d\u043e\u0439 \u0434\u0435\u0440\u0435\u0432\u043d\u0438 \u041f\u043e\u0440\u0442\u0438\u043d\u0430\u0442\u0441 \u043d\u0430 \u0421\u0435\u0432\u0435\u0440\u0435 \u0418\u0431\u0438\u0446\u044b? \u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u043c \u0432\u0430\u043c \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u0443\u044e \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0441\u0442\u0430\u043d\u0435\u0442"}
+2023-04-21 10:38:29 - Solicitando API - Post ID: 460692, Prompt: Reescribe este contenido en el código de lenguaje it_IT 
+ <strong>"Cozy Ground Floor Apartment for Sale in the Heart of Peaceful Portinatx Village, North Ibiza"</strong>
+
+Are you looking for a cozy apartment in the heart of the peaceful Portinatx village in the North of Ibiza? We present to you a beautiful apartment that will be the perfect retreat for you and your loved ones.
+
+This apartment is located just 200 meters from the beach, making it an ideal location for your holiday or permanent residence. The apartment features a comfortable double bedroom, a bathroom with shower, and a cozy living room with an open kitchen and a bar. The apartment's layout is perfect for couples or small families.
+
+The building offers all the amenities you need to enjoy your stay, including a large community pool, beautiful garden, and a barbecue area where you can enjoy delicious meals with your loved ones. The apartment is fully furnished and equipped with everything you need, including air conditioning and Wi-Fi, ensuring you have a comfortable and relaxing stay.
+
+In addition, there are all kinds of services, shops, restaurants, and bars within walking distance of the apartment, making it an incredibly convenient location. You can enjoy the local cuisine, explore the village, and meet new people while living in the heart of Portinatx village.
+
+Portinatx village is known for its tranquil and serene atmosphere, making it the perfect place to unwind and escape the stresses of daily life. The North of Ibiza is also known for its stunning natural beauty and laid-back bohemian lifestyle, providing you with the perfect combination of relaxation and adventure.
+
+Don't miss the opportunity to own this cozy ground floor apartment in the heart of the peaceful Portinatx village, North Ibiza. Contact us today to schedule a viewing and make this apartment your own.
+2023-04-21 10:38:33 - Respuesta API - Body: {"response":"\r\n\r\nStai cercando un accogliente appartamento nel cuore del tranquillo villaggio di Portinatx, nel nord di Ibiza? Vi presentiamo un bellissimo appartamento che sar\u00e0 la perfetta retreat per te e i tuoi cari.\r\n\r\nQuesto appartamento si trova a soli 200 metri dalla spiaggia, rendendolo una location ideale per le vostre vacanze o residenza permanente. L'appartamento dispone di una confortevole camera doppia, un bagno con doccia e un accoglient"}
+2023-04-21 10:40:13 - Solicitando API - Post ID: 460690, Prompt: Reescribe este contenido en el código de lenguaje nl_NL 
+ <strong>"Cozy Ground Floor Apartment for Sale in the Heart of Peaceful Portinatx Village, North Ibiza"</strong>
+
+Are you looking for a cozy apartment in the heart of the peaceful Portinatx village in the North of Ibiza? We present to you a beautiful apartment that will be the perfect retreat for you and your loved ones.
+
+This apartment is located just 200 meters from the beach, making it an ideal location for your holiday or permanent residence. The apartment features a comfortable double bedroom, a bathroom with shower, and a cozy living room with an open kitchen and a bar. The apartment's layout is perfect for couples or small families.
+
+The building offers all the amenities you need to enjoy your stay, including a large community pool, beautiful garden, and a barbecue area where you can enjoy delicious meals with your loved ones. The apartment is fully furnished and equipped with everything you need, including air conditioning and Wi-Fi, ensuring you have a comfortable and relaxing stay.
+
+In addition, there are all kinds of services, shops, restaurants, and bars within walking distance of the apartment, making it an incredibly convenient location. You can enjoy the local cuisine, explore the village, and meet new people while living in the heart of Portinatx village.
+
+Portinatx village is known for its tranquil and serene atmosphere, making it the perfect place to unwind and escape the stresses of daily life. The North of Ibiza is also known for its stunning natural beauty and laid-back bohemian lifestyle, providing you with the perfect combination of relaxation and adventure.
+
+Don't miss the opportunity to own this cozy ground floor apartment in the heart of the peaceful Portinatx village, North Ibiza. Contact us today to schedule a viewing and make this apartment your own.
+2023-04-21 10:40:17 - Respuesta API - Body: {"response":"\r\n\r\nBen je op zoek naar een gezellig appartement in het hart van het rustige Portinatx-dorp in het noorden van Ibiza? Wij presenteren u een prachtig appartement dat de perfecte uitvalsbasis zal zijn voor u en uw geliefden.\r\n\r\nDit appartement ligt op slechts 200 meter van het strand, waardoor het een ideale locatie is voor uw vakantie of permanente verblijfplaats. Het appartement beschikt over een comfortab"}
+2023-04-21 10:48:28 - Solicitando API - Post ID: 460490, Prompt: Reescribe este contenido en el código de lenguaje fr_FR 
+ <strong>Charmant appartement avec licence touristique à vendre près de la plage de Cala Gracio</strong>.
+
+Bienvenue dans ce charmant appartement en bord de mer, à quelques pas seulement de la magnifique plage de Cala Gracio, sur la pittoresque côte ouest de l'île. Cette belle propriété est le refuge parfait pour ceux qui souhaitent profiter de la beauté naturelle d'Ibiza tout en étant proche de toutes les activités.
+
+Avec ses grandes fenêtres et sa vue imprenable sur la mer, vous pouvez profiter de magnifiques couchers de soleil depuis le confort de votre propre maison. Cet appartement au dernier étage de 68 m² (65 m² utilisables) comprend deux chambres, une cuisine ouverte/salle de séjour et une salle de bains, ce qui le rend parfait pour les couples, les petites familles ou les investisseurs souhaitant profiter de la florissante industrie touristique de l'île. Cette propriété dispose de licences touristiques, ce qui en fait une excellente opportunité d'investissement pour ceux qui souhaitent louer la propriété lorsqu'elle n'est pas utilisée.
+
+Bien que la propriété soit d'occasion et nécessite des rénovations, elle offre des fonctionnalités telles que des armoires encastrées et un chauffage et une climatisation individuels avec une pompe à chaleur. L'appartement est orienté vers l'ouest, offrant une vue sur les magnifiques couchers de soleil d'Ibiza. L'appartement est prêt à emménager, et bien que des rénovations mineures puissent être nécessaires, il est prêt pour une occupation immédiate. La propriété est vendue non meublée, ce qui vous donne la liberté de la décorer à votre goût.
+
+Le bâtiment ne compte que quinze appartements, ce qui garantit que les espaces communs ne sont jamais surpeuplés. De plus, le bâtiment dispose d'une spacieuse terrasse sur le toit équipée d'un barbecue et d'un espace de détente, vous offrant l'endroit idéal pour vous détendre et profiter du soleil.
+
+Situé à seulement quelques minutes à pied de la magnifique plage de Cala Gracio et à moins de cinq minutes du centre de San Antonio de Portmany, ce charmant appartement est parfaitement situé pour ceux qui souhaitent profiter de tout ce qu'Ibiza a à offrir.
+
+En résumé, cet appartement de bord de mer charmant est une excellente opportunité de posséder une propriété dans l'une des plus belles régions d'Ibiza, avec tout ce dont vous avez besoin pour une vie confortable et détendue. Ne manquez pas cette opportunité de réaliser votre rêve de vivre à Ibiza. Contactez-nous aujourd'hui pour organiser une visite !"
+2023-04-21 10:48:32 - Respuesta API - Body: {"response":"\r\n\r\n<strong>Charmant appartement avec licence touristique \u00e0 vendre pr\u00e8s de la plage de Cala Gracio<\/strong>.\r\n\r\nBienvenue dans ce charmant appartement en bord de mer, \u00e0 quelques pas seulement de la magnifique plage de Cala Gracio, sur la pittoresque c\u00f4te ouest de l'\u00eele. Cette belle propri\u00e9t\u00e9 est le refuge parfait pour ceux qui souhaitent profiter de la beaut\u00e9 naturelle d'Ibiza tout en \u00e9tant proche de toutes les activit\u00e9s.\r\n\r"}
+2023-04-21 10:48:33 - Solicitando API - Post ID: 460489, Prompt: Reescribe este contenido en el código de lenguaje ru_RU 
+ <strong>"Charming Apartment with tourist licence for sale near Cala Gracio Beach "</strong>
+
+&nbsp;
+
+Welcome to this charming seaside apartment just a few steps away from the beautiful Cala Gracio beach on the picturesque west coast of the island. This beautiful property is the perfect retreat for those who want to enjoy the natural beauty of Ibiza while being close to all the activities.
+
+&nbsp;
+
+With its large windows and breathtaking sea views, you can enjoy stunning sunsets from the comfort of your own home. This 68 sqm (65 sqm usable) top-floor apartment includes two bedrooms, an open-plan kitchen/living area, and a bathroom, making it perfect for couples, small families, or investors looking to take advantage of the island's thriving tourist industry. This property has tourist licenses, making it an excellent investment opportunity for those looking to rent the property when it's not in use.
+
+&nbsp;
+
+Although the property is second-hand and in need of renovation, it offers features such as built-in wardrobes and individual heating and cooling with a heat pump. The apartment faces west, giving you a view of Ibiza's stunning sunsets. The apartment is move-in ready, and while minor renovations may be necessary, it is ready for immediate occupancy.
+
+The property is sold unfurnished, giving you the freedom to decorate it to your liking. The building has only fifteen apartments, ensuring that common areas are never overcrowded.
+
+Additionally, the building has a spacious rooftop terrace equipped with a barbecue and a relaxation area, providing you with the perfect spot to unwind and soak up the sun.
+
+Located just a few minutes' walk from the beautiful Cala Gracio beach and less than five minutes from the center of San Antonio de Portmany, this charming apartment is perfectly situated for those looking to enjoy everything Ibiza has to offer.
+
+&nbsp;
+
+In summary, this charming seaside apartment is an excellent opportunity to own a property in one of the most beautiful regions of Ibiza, with everything you need for a comfortable and relaxed lifestyle. Don't miss this opportunity to make your dream of living in Ibiza a reality. Contact us today to arrange a viewing!"
+2023-04-21 10:48:37 - Respuesta API - Body: {"response":"<\/p>\r\n\r\n\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u044d\u0442\u043e\u0442 \u043e\u0447\u0430\u0440\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0443 \u043d\u0430 \u0431\u0435\u0440\u0435\u0433\u0443 \u043c\u043e\u0440\u044f, \u0432\u0441\u0435\u0433\u043e \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0448\u0430\u0433\u0430\u0445 \u043e\u0442 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0439 \u043f\u043b\u044f\u0436\u0430 \u041a\u0430\u043b\u0430-\u0413\u0440\u0430\u0441\u0438\u043e \u043d\u0430 \u0436\u0438\u0432\u043e\u043f\u0438\u0441"}
+2023-04-21 10:48:39 - Solicitando API - Post ID: 460488, Prompt: Reescribe este contenido en el código de lenguaje it_IT 
+ <strong>"Charming Apartment with tourist licence for sale near Cala Gracio Beach "</strong>
+
+&nbsp;
+
+Welcome to this charming seaside apartment just a few steps away from the beautiful Cala Gracio beach on the picturesque west coast of the island. This beautiful property is the perfect retreat for those who want to enjoy the natural beauty of Ibiza while being close to all the activities.
+
+&nbsp;
+
+With its large windows and breathtaking sea views, you can enjoy stunning sunsets from the comfort of your own home. This 68 sqm (65 sqm usable) top-floor apartment includes two bedrooms, an open-plan kitchen/living area, and a bathroom, making it perfect for couples, small families, or investors looking to take advantage of the island's thriving tourist industry. This property has tourist licenses, making it an excellent investment opportunity for those looking to rent the property when it's not in use.
+
+&nbsp;
+
+Although the property is second-hand and in need of renovation, it offers features such as built-in wardrobes and individual heating and cooling with a heat pump. The apartment faces west, giving you a view of Ibiza's stunning sunsets. The apartment is move-in ready, and while minor renovations may be necessary, it is ready for immediate occupancy.
+
+The property is sold unfurnished, giving you the freedom to decorate it to your liking. The building has only fifteen apartments, ensuring that common areas are never overcrowded.
+
+Additionally, the building has a spacious rooftop terrace equipped with a barbecue and a relaxation area, providing you with the perfect spot to unwind and soak up the sun.
+
+Located just a few minutes' walk from the beautiful Cala Gracio beach and less than five minutes from the center of San Antonio de Portmany, this charming apartment is perfectly situated for those looking to enjoy everything Ibiza has to offer.
+
+&nbsp;
+
+In summary, this charming seaside apartment is an excellent opportunity to own a property in one of the most beautiful regions of Ibiza, with everything you need for a comfortable and relaxed lifestyle. Don't miss this opportunity to make your dream of living in Ibiza a reality. Contact us today to arrange a viewing!"
+2023-04-21 10:48:43 - Respuesta API - Body: {"response":"\r\n\r\n\"Affascinante appartamento in vendita vicino alla spiaggia di Cala Gracio con licenza turistica\"\r\n\r\nBenvenuti in questo affascinante appartamento vicino al mare, a pochi passi dalla bellissima spiaggia di Cala Gracio, sulla pittoresca costa occidentale dell'isola. Questa bellissima propriet\u00e0 \u00e8 il rifugio ideale per chi vuole godere della bellezza naturale di Ibiza pur essendo vicino a tutte le attivit\u00e0.\r\n\r\nCon"}
+2023-04-21 10:51:19 - Solicitando API - Post ID: 460169, Prompt: Reescribe este contenido en el código de lenguaje de_DE 
+ <div>
+<div><strong>Spacious seafront apartment for sale</strong></div>
+<div></div>
+<div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+
+Experience seaside living at its finest with this fully refurbished, spacious seafront apartment on the market. Boasting 120 sqm of living space and an additional 80 sqm of terrace space, this apartment is located in a prime, sea front residence complete with a swimming pool. Nestled in a quiet area, this property is just a short walk away from a variety of shops, bars, and restaurants. Furthermore, this apartment is ideally located just a short drive away from the most beautiful beaches and coves on the west coast, including the famous Cala Bassa and Cala Conta. Immerse yourself in the breathtaking scenery of Ibiza's coastline and enjoy the crystal-clear waters of the Mediterranean at these world-renowned beaches.
+
+The apartment is fully equipped and features an open-plan design, with a spacious living room complete with a sofa bed, an open kitchen with modern appliances, 3 double bedrooms each with in-built wardrobes, 2 beautifully appointed bathrooms, and 2 terraces with direct access from the living area and bedrooms. Enjoy breathtaking sunsets from the comfort of your own home with the terrace’s unobstructed views of the sea.
+
+The building also features a lobby and a security system for added peace of mind. Don’t miss out on the opportunity to own a piece of seaside paradise and schedule a viewing today!
+
+</div>
+</div>
+</div>
+</div>
+2023-04-21 10:51:23 - Respuesta API - Body: {"response":"\r\n\r\n\r\n<div>\r\n<div><strong>Gro\u00dfz\u00fcgige Wohnung mit Meerblick zum Verkauf<\/strong><\/div>\r\n<div><\/div>\r\n<div class=\"flex flex-grow flex-col gap-3\">\r\n<div class=\"min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\r\n\r\nErleben Sie das Leben am Meer in seiner sch\u00f6nsten Form mit dieser komplett renovi"}
+2023-04-21 10:56:13 - Solicitando API - Post ID: 455110, Prompt: Reescribe este contenido en el código de lenguaje en_US 
+ Nestled in the stunning north of Santa Eulalia, just 5 minutes' drive from the city center, sits the beautiful and spacious Villa Tide. Perched atop a hill, the villa boasts breathtaking panoramic views of the sea, mountains, and the eastern coast of the island.
+
+Set on a vast 35,000m² plot, surrounded by natural beauty, Villa Tide combines rustic charm with modern elegance. The expansive covered terraces, chill-out area, outdoor dining room, pool, and pond are perfect for relaxation.
+
+Built in 2011, the house offers ample open spaces designed with high-quality materials. The spacious living and dining room features extra-large windows, offering stunning views and direct access to the terrace. The house also boasts a fully equipped modern kitchen with direct access to the garden.
+
+There are four double bedrooms and a master bedroom, each with their own en-suite bathroom. The master bedroom also features a Jacuzzi and a large terrace with separate shower. The other bedrooms also have en-suite bathrooms, with two of them featuring showers and the third featuring a Jacuzzi bathtub.
+
+In addition to the main house, there is a guest annex complete with a living room, sofa bed, bathroom with shower, kitchen, and a double bedroom.
+
+Escape to Villa Tide and indulge in luxury island living.
+
+Contact us today to arrange a viewing.
+
+<strong>Stunning and spacious house located in the northern region of Santa Eulalia for sale</strong>
+2023-04-21 10:56:16 - Respuesta API - Body: {"response":" \r\n\r\nNestled in the stunning north of Santa Eulalia, just 5 minutes' drive from the city center, sits the beautiful and spacious Villa Tide. Perched atop a hill, the villa boasts breathtaking panoramic views of the sea, mountains, and the eastern coast of the island.\r\n\r\nSet on a vast 35,000m\u00b2 plot, surrounded by natural beauty, Villa Tide combines rustic charm with modern elegance. The expansive covered terraces, chill-out area, outdoor dining room, pool, and pond are perfect for relaxation.\r\n\r\nBuilt in 2011, the house offers ample open spaces designed with high-quality materials. The spacious living and dining room features extra-large"}
+2023-04-21 11:12:59 - Solicitando API - Post ID: 460487, Prompt: Reescribe este contenido en el código de lenguaje de_DE 
+ <strong>"Charming Apartment with tourist licence for sale near Cala Gracio Beach "</strong>
+
+&nbsp;
+
+Welcome to this charming seaside apartment just a few steps away from the beautiful Cala Gracio beach on the picturesque west coast of the island. This beautiful property is the perfect retreat for those who want to enjoy the natural beauty of Ibiza while being close to all the activities.
+
+&nbsp;
+
+With its large windows and breathtaking sea views, you can enjoy stunning sunsets from the comfort of your own home. This 68 sqm (65 sqm usable) top-floor apartment includes two bedrooms, an open-plan kitchen/living area, and a bathroom, making it perfect for couples, small families, or investors looking to take advantage of the island's thriving tourist industry. This property has tourist licenses, making it an excellent investment opportunity for those looking to rent the property when it's not in use.
+
+&nbsp;
+
+Although the property is second-hand and in need of renovation, it offers features such as built-in wardrobes and individual heating and cooling with a heat pump. The apartment faces west, giving you a view of Ibiza's stunning sunsets. The apartment is move-in ready, and while minor renovations may be necessary, it is ready for immediate occupancy.
+
+The property is sold unfurnished, giving you the freedom to decorate it to your liking. The building has only fifteen apartments, ensuring that common areas are never overcrowded.
+
+Additionally, the building has a spacious rooftop terrace equipped with a barbecue and a relaxation area, providing you with the perfect spot to unwind and soak up the sun.
+
+Located just a few minutes' walk from the beautiful Cala Gracio beach and less than five minutes from the center of San Antonio de Portmany, this charming apartment is perfectly situated for those looking to enjoy everything Ibiza has to offer.
+
+&nbsp;
+
+In summary, this charming seaside apartment is an excellent opportunity to own a property in one of the most beautiful regions of Ibiza, with everything you need for a comfortable and relaxed lifestyle. Don't miss this opportunity to make your dream of living in Ibiza a reality. Contact us today to arrange a viewing!"
+2023-04-21 11:13:02 - Respuesta API - Body: {"response":"\r\n\r\n\"Charmantes Apartment mit touristischer Lizenz zum Verkauf in der N\u00e4he von Cala Gracio Beach\"\r\n\r\nWillkommen in diesem charmanten Strandapartment nur wenige Schritte entfernt von dem sch\u00f6nen Cala Gracio Strand an der malerischen Westk\u00fcste der Insel. Diese wundersch\u00f6ne Unterkunft ist der perfekte R\u00fcckzugsort f\u00fcr diejenigen, die die nat\u00fcrliche Sch\u00f6nheit von Ibiza genie\u00dfen m\u00f6chten, w\u00e4hrend sie in der N\u00e4he all"}
+2023-04-21 11:18:03 - Solicitando API - Post ID: 460486, Prompt: Reescribe este contenido en el código de lenguaje nl_NL 
+ <strong>"Charming Apartment with tourist licence for sale near Cala Gracio Beach "</strong>
+
+&nbsp;
+
+Welcome to this charming seaside apartment just a few steps away from the beautiful Cala Gracio beach on the picturesque west coast of the island. This beautiful property is the perfect retreat for those who want to enjoy the natural beauty of Ibiza while being close to all the activities.
+
+&nbsp;
+
+With its large windows and breathtaking sea views, you can enjoy stunning sunsets from the comfort of your own home. This 68 sqm (65 sqm usable) top-floor apartment includes two bedrooms, an open-plan kitchen/living area, and a bathroom, making it perfect for couples, small families, or investors looking to take advantage of the island's thriving tourist industry. This property has tourist licenses, making it an excellent investment opportunity for those looking to rent the property when it's not in use.
+
+&nbsp;
+
+Although the property is second-hand and in need of renovation, it offers features such as built-in wardrobes and individual heating and cooling with a heat pump. The apartment faces west, giving you a view of Ibiza's stunning sunsets. The apartment is move-in ready, and while minor renovations may be necessary, it is ready for immediate occupancy.
+
+The property is sold unfurnished, giving you the freedom to decorate it to your liking. The building has only fifteen apartments, ensuring that common areas are never overcrowded.
+
+Additionally, the building has a spacious rooftop terrace equipped with a barbecue and a relaxation area, providing you with the perfect spot to unwind and soak up the sun.
+
+Located just a few minutes' walk from the beautiful Cala Gracio beach and less than five minutes from the center of San Antonio de Portmany, this charming apartment is perfectly situated for those looking to enjoy everything Ibiza has to offer.
+
+&nbsp;
+
+In summary, this charming seaside apartment is an excellent opportunity to own a property in one of the most beautiful regions of Ibiza, with everything you need for a comfortable and relaxed lifestyle. Don't miss this opportunity to make your dream of living in Ibiza a reality. Contact us today to arrange a viewing!"
+2023-04-21 11:18:06 - Respuesta API - Body: {"response":"\r\n\r\nWelkom bij dit charmante appartement aan zee op slechts enkele stappen van het prachtige strand van Cala Gracio op het schilderachtige westen van het eiland. Deze prachtige woning is de perfecte plek voor diegenen die willen genieten van de natuurlijke schoonheid van Ibiza, maar toch dicht bij alle activiteiten.\r\n\r\nMet zijn grote ramen en een adembenemend uitzicht op zee, kunt u genieten van prachtige zonsond"}
+2023-04-21 11:21:39 - Solicitando API - Post ID: 460332, Prompt: Reescribe este contenido en el código de lenguaje ru_RU 
+ <strong>Stunning Seafront Penthouse for Sale</strong>
+
+A Romantic Getaway Escape to your very own seaside retreat with this breathtaking penthouse, now on the market. This fully furbished penthouse boasts 120 sqm of indoor living space, along with an additional 80 sqm of terrace space, overlooking the stunning seafront. Nestled in a tranquil area, this property is a short stroll away from charming shops, cozy cafes, and romantic restaurants. Furthermore, this apartment is ideally located just a short drive away from the most beautiful beaches and coves on the west coast, including the famous Cala Bassa and Cala Conta. Immerse yourself in the breathtaking scenery of Ibiza's coastline and enjoy the crystal-clear waters of the Mediterranean at these world-renowned beaches.
+
+This elegant penthouse features a spacious living room, a full equipped kitchen, three double bedrooms, two complete bathrooms, and two terraces with direct access from the living area and bedrooms. The terrace offers unobstructed views of the sea, perfect for savoring unforgettable sunsets with your loved one.
+
+The building includes fantastic amenities, such as a swimming pool and 24/7 laundry. The penthouse's location provides a sense of exclusivity, allowing you to immerse yourself in a peaceful and romantic environment.
+
+Don't miss out on the chance to own your own romantic seaside getaway. Schedule a viewing today and experience the epitome of romantic coastal living.
+2023-04-21 11:21:42 - Respuesta API - Body: {"response":"\n\n\u041f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u0439 \u043f\u0435\u043d\u0442\u0445\u0430\u0443\u0441 \u0443 \u043c\u043e\u0440\u044f \u043d\u0430 \u043f\u0440\u043e\u0434\u0430\u0436\u0443\r\n\r\n\u041f\u043e\u0431\u0435\u0433 \u0432 \u0440\u043e\u043c\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u0442\u0434\u044b\u0445 \u043a \u0432\u0430\u0448\u0435\u043c\u0443 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c\u0443 \u043c\u043e\u0440\u0441\u043a\u043e\u043c\u0443 \u043e\u0442\u0434\u044b\u0445\u0443 \u0441 \u044d\u0442\u0438\u043c \u043f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u043c \u043f\u0435\u043d\u0442"}
+2023-04-21 11:32:35 - Solicitando API - Post ID: 460330, Prompt: Reescribe este contenido en el código de lenguaje de_DE 
+ <strong>Stunning Seafront Penthouse for Sale</strong>
+
+A Romantic Getaway Escape to your very own seaside retreat with this breathtaking penthouse, now on the market. This fully furbished penthouse boasts 120 sqm of indoor living space, along with an additional 80 sqm of terrace space, overlooking the stunning seafront. Nestled in a tranquil area, this property is a short stroll away from charming shops, cozy cafes, and romantic restaurants. Furthermore, this apartment is ideally located just a short drive away from the most beautiful beaches and coves on the west coast, including the famous Cala Bassa and Cala Conta. Immerse yourself in the breathtaking scenery of Ibiza's coastline and enjoy the crystal-clear waters of the Mediterranean at these world-renowned beaches.
+
+This elegant penthouse features a spacious living room, a full equipped kitchen, three double bedrooms, two complete bathrooms, and two terraces with direct access from the living area and bedrooms. The terrace offers unobstructed views of the sea, perfect for savoring unforgettable sunsets with your loved one.
+
+The building includes fantastic amenities, such as a swimming pool and 24/7 laundry. The penthouse's location provides a sense of exclusivity, allowing you to immerse yourself in a peaceful and romantic environment.
+
+Don't miss out on the chance to own your own romantic seaside getaway. Schedule a viewing today and experience the epitome of romantic coastal living.
+2023-04-21 11:32:38 - Respuesta API - Body: {"response":"\r\n\r\n\r\nAtemberaubendes Meerblick-Penthouse zum Verkauf\r\n\r\nEntkommen Sie auf Ihre eigene kleine Meeres-Oase mit diesem atemberaubenden Penthouse, das jetzt zum Verkauf steht. Das voll m\u00f6blierte Penthouse verf\u00fcgt \u00fcber 120 m\u00b2 Wohnfl\u00e4che, sowie \u00fcber 80 m\u00b2 Terrasse mit herrlichem Meerblick. Das Penthouse liegt in einer ruhigen Gegend und ist nur einen kurzen Sp"}
+2023-04-21 11:33:04 - Solicitando API - Post ID: 460172, Prompt: Reescribe este contenido en el código de lenguaje fr_FR 
+ <strong>Appartement de trois chambres entièrement meublé avec vues frontales sur la mer à vendre.</strong>
+<div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+
+Si vous rêvez d’une vie en bord de mer paisible et de vues imprenables sur l’océan, ne manquez pas cette occasion de devenir propriétaire de cet appartement en bord de mer.
+
+Entièrement rénové, cet appartement spacieux de 120 m² dispose également de 80 m² de terrasses pour profiter encore plus de la vue imprenable sur l’océan. Il est situé dans une résidence en bord de mer dotée d’une piscine pour votre détente.Le quartier est calme et agréable, à distance de marche des commerces, des bars et des restaurants pour votre commodité. De plus, cet appartement est idéalement situé à quelques minutes en voiture des plus belles plages et criques de la côte ouest, notamment la célèbre Cala Bassa et Cala Conta. Immergez-vous dans les paysages à couper le souffle de la côte d'Ibiza et profitez des eaux cristallines de la Méditerranée sur ces plages de renommée mondiale.
+
+L’appartement est entièrement équipé et comprend un salon spacieux avec un canapé-lit, une cuisine ouverte moderne, 3 chambres doubles avec placards intégrés, 2 salles de bains de luxe et 2 terrasses avec accès direct depuis le salon et les chambres. Les terrasses offrent des vues imprenables sur l’océan et des couchers de soleil à couper le souffle.
+
+Le bâtiment dispose également d’une réception et d’un système de sécurité pour votre sécurité et votre tranquillité d’esprit.
+
+N’attendez plus et prenez rendez-vous pour une visite dès maintenant pour devenir le prochain propriétaire de cette perle en bord de mer.
+
+</div>
+</div>
+</div>
+2023-04-21 11:33:07 - Respuesta API - Body: {"response":"\r\n\r\n<strong>Appartement de trois chambres enti\u00e8rement\u00a0meubl\u00e9 avec vues frontales sur la mer \u00e0 vendre.<\/strong>\r\n<div class=\"flex flex-grow flex-col gap-3\">\r\n<div class=\"min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\r\n\r\nSi vous r\u00eavez d\u2019une vie en bord de mer paisible et de vues imprenables sur l\u2019oc\u00e9an, ne man"}
+2023-04-21 12:11:36 - Solicitando API - Post ID: 459505, Prompt: Reescribe este contenido en el código de lenguaje nl_NL 
+ <p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">We are excited to present to you this stunning authentic finca in Sa Carroca with breathtaking views and a rental license. This property is perfect for those who value privacy, tranquility, and natural beauty.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">With a plot size of 105,000 square meters, this three-bedroom finca offers a spacious living area of 399 square meters. It features three bathrooms, ensuring that you and your guests have plenty of space and privacy. The finca has been beautifully renovated in 2013, providing a modern and comfortable living experience while maintaining its authentic charm.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">One of the highlights of this property is its location. Situated on a mountaintop, the finca offers panoramic views of the sea and the countryside. You can enjoy these stunning vistas from the comfort of your own infinity pool, which is perfect for relaxing or entertaining guests.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">Another standout feature of this finca is its rental license. This makes it an excellent investment opportunity for those looking to generate rental income. Whether you're looking for a primary residence or a vacation home that doubles as a rental property, this finca is an excellent option.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">At a price of 4.3 million euros, this authentic finca is a rare find that is not to be missed. There is a 5% commission to share, making it a great opportunity for real estate agents as well.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;"> Contact us today to schedule a viewing and experience the beauty of this amazing property for yourself.</span></p>
+2023-04-21 12:11:40 - Respuesta API - Body: {"response":"\n\nWij zijn erg enthousiast om u deze prachtige authentieke finca in Sa Carroca met adembenemende uitzichten en een verhuurvergunning te presenteren. Deze accommodatie is perfect voor diegenen die waarde hechten aan privacy, rust en natuurlijke schoonheid.\n\nMet een perceeloppervlakte van 10.500 vierkante meter biedt deze finca met drie slaapkamers een ruim woonoppervlak van 399 vierkante meter. Het beschikt over drie bad"}
+2023-04-21 12:15:05 - Solicitando API - Post ID: 459504, Prompt: Reescribe este contenido en el código de lenguaje en_US 
+ <p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">We are excited to present to you this stunning authentic finca in Sa Carroca with breathtaking views and a rental license. This property is perfect for those who value privacy, tranquility, and natural beauty.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">With a plot size of 105,000 square meters, this three-bedroom finca offers a spacious living area of 399 square meters. It features three bathrooms, ensuring that you and your guests have plenty of space and privacy. The finca has been beautifully renovated in 2013, providing a modern and comfortable living experience while maintaining its authentic charm.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">One of the highlights of this property is its location. Situated on a mountaintop, the finca offers panoramic views of the sea and the countryside. You can enjoy these stunning vistas from the comfort of your own infinity pool, which is perfect for relaxing or entertaining guests.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">Another standout feature of this finca is its rental license. This makes it an excellent investment opportunity for those looking to generate rental income. Whether you're looking for a primary residence or a vacation home that doubles as a rental property, this finca is an excellent option.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">At a price of 4.3 million euros, this authentic finca is a rare find that is not to be missed. There is a 5% commission to share, making it a great opportunity for real estate agents as well.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;"> Contact us today to schedule a viewing and experience the beauty of this amazing property for yourself.</span></p>
+2023-04-21 12:15:09 - Respuesta API - Body: {"response":"\n\nWe are excited to present to you this stunning authentic finca in Sa Carroca with breathtaking views and a rental license. This property is perfect for those who value privacy, tranquility, and natural beauty.\n\nWith a plot size of 105,000 square meters, this three-bedroom finca offers a spacious living area of 399 square meters. It features three bathrooms, ensuring that you and your guests have plenty of space and privacy. The finca has been beautifully renovated in 2013, providing a modern and comfortable living experience while maintaining its authentic charm.\n\nOne of the highlights of this property is its location. Situated on a mountaintop, the finca offers panoramic views of the sea and the countryside."}
+2023-04-21 12:34:32 - Solicitando API - Post ID: 459507, Prompt: Reescribe este contenido en el código de lenguaje de_DE 
+ <p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">We are excited to present to you this stunning authentic finca in Sa Carroca with breathtaking views and a rental license. This property is perfect for those who value privacy, tranquility, and natural beauty.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">With a plot size of 105,000 square meters, this three-bedroom finca offers a spacious living area of 399 square meters. It features three bathrooms, ensuring that you and your guests have plenty of space and privacy. The finca has been beautifully renovated in 2013, providing a modern and comfortable living experience while maintaining its authentic charm.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">One of the highlights of this property is its location. Situated on a mountaintop, the finca offers panoramic views of the sea and the countryside. You can enjoy these stunning vistas from the comfort of your own infinity pool, which is perfect for relaxing or entertaining guests.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">Another standout feature of this finca is its rental license. This makes it an excellent investment opportunity for those looking to generate rental income. Whether you're looking for a primary residence or a vacation home that doubles as a rental property, this finca is an excellent option.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">At a price of 4.3 million euros, this authentic finca is a rare find that is not to be missed. There is a 5% commission to share, making it a great opportunity for real estate agents as well.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;"> Contact us today to schedule a viewing and experience the beauty of this amazing property for yourself.</span></p>
+2023-04-21 12:34:35 - Respuesta API - Body: {"response":"\n\nWir sind begeistert, Ihnen diese atemberaubende authentische Finca in Sa Carroca mit beeindruckendem Meerblick und einer Vermietungslizenz vorstellen zu k\u00f6nnen. Diese Unterkunft ist perfekt f\u00fcr diejenigen, die Privatsph\u00e4re, Ruhe und die Sch\u00f6nheit der Natur sch\u00e4tzen.\r\n\r\nMit einer Grundst\u00fccksgr\u00f6\u00dfe von 10.500 m\u00b2 bietet diese Finca mit drei Schlafzimmern eine gro\u00dfz\u00fcgige Wohn"}
+2023-04-21 12:36:15 - Solicitando API - Post ID: 459508, Prompt: Reescribe este contenido en el código de lenguaje it_IT 
+ <p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">We are excited to present to you this stunning authentic finca in Sa Carroca with breathtaking views and a rental license. This property is perfect for those who value privacy, tranquility, and natural beauty.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">With a plot size of 105,000 square meters, this three-bedroom finca offers a spacious living area of 399 square meters. It features three bathrooms, ensuring that you and your guests have plenty of space and privacy. The finca has been beautifully renovated in 2013, providing a modern and comfortable living experience while maintaining its authentic charm.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">One of the highlights of this property is its location. Situated on a mountaintop, the finca offers panoramic views of the sea and the countryside. You can enjoy these stunning vistas from the comfort of your own infinity pool, which is perfect for relaxing or entertaining guests.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">Another standout feature of this finca is its rental license. This makes it an excellent investment opportunity for those looking to generate rental income. Whether you're looking for a primary residence or a vacation home that doubles as a rental property, this finca is an excellent option.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">At a price of 4.3 million euros, this authentic finca is a rare find that is not to be missed. There is a 5% commission to share, making it a great opportunity for real estate agents as well.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;"> Contact us today to schedule a viewing and experience the beauty of this amazing property for yourself.</span></p>
+2023-04-21 12:36:18 - Respuesta API - Body: {"response":"\n\nSiamo entusiasti di presentarvi questa splendida casa rurale autentica a Sa Carroca con viste mozzafiato e licenza di affitto. Questa propriet\u00e0 \u00e8 perfetta per coloro che apprezzano la privacy, la tranquillit\u00e0 e la bellezza della natura.\n\nCon una superficie di 10.5000 metri quadrati, questa casa rurale di tre camere da letto offre un ampio soggiorno di 399 metri quadrati. Dispone di tre bagni, per garantire spazio e privacy sia a vo"}
+2023-04-21 17:49:00 - Solicitando API - Post ID: 461549, Prompt: Reescribe este contenido en el código de lenguaje es_ES 
+ Te presentamos un piso en venta en la zona de Es Pratet, en el centro de Ibiza, por un precio de 395.000€.
+
+Con una superficie de 100m2, cuenta con tres dormitorios, dos baños y una sala de estar luminosa. Además, dispone de un solárium de 120m2 y una plaza de parking privada.
+
+La ubicación es inmejorable, con tiendas, restaurantes, bares y lugares turísticos cercanos para disfrutar de la vida urbana en la isla.
+
+&nbsp;
+
+Si estás interesado, ponte en contacto con nosotros para programar una visita y conocer más detalles sobre esta oportunidad única.
+2023-04-21 17:49:04 - Respuesta API - Body: {"response":"\r\n\r\n# Te presentamos un piso en venta en la zona de Es Pratet, en el centro de Ibiza, por un precio de 395.000\u20ac.\r\n\r\n# Con una superficie de 100m2, cuenta con tres dormitorios, dos ba\u00f1os y una sala de estar luminosa. Adem\u00e1s, dispone de un sol\u00e1rium de 120m2 y una plaza de parking privada.\r\n\r\n# La ubicaci\u00f3n es inmejorable, con tiendas, restaurantes, bares y lugares tur\u00edsticos cercanos para disfrutar de la v"}
+2023-04-21 17:49:18 - Solicitando API - Post ID: 461549, Prompt: Reescribe este contenido en el código de lenguaje es_ES 
+ Te presentamos un piso en venta en la zona de Es Pratet, en el centro de Ibiza, por un precio de 395.000€.
+
+Con una superficie de 100m2, cuenta con tres dormitorios, dos baños y una sala de estar luminosa. Además, dispone de un solárium de 120m2 y una plaza de parking privada.
+
+La ubicación es inmejorable, con tiendas, restaurantes, bares y lugares turísticos cercanos para disfrutar de la vida urbana en la isla.
+
+&nbsp;
+
+Si estás interesado, ponte en contacto con nosotros para programar una visita y conocer más detalles sobre esta oportunidad única.
+2023-04-21 17:49:22 - Respuesta API - Body: {"response":"\r\n\r\n&nbsp;\r\n\r\nLe presentamos un piso en venta en la zona de Es Pratet, en el centro de Ibiza, por un precio de 395.000\u20ac.\r\n\r\nCon una superficie de 100m2, cuenta con tres dormitorios, dos ba\u00f1os y una sala de estar luminosa. Adem\u00e1s, dispone de un sol\u00e1rium de 120m2 y una plaza de parking privada.\r\n\r\nLa ubicaci\u00f3n es inmejorable, con tiendas, restaurantes, bares y lugares tur\u00edsticos cercanos para disfr"}
+2023-04-21 18:14:38 - Solicitando API - Post ID: 462069, Prompt: Reescribe este contenido en el código de lenguaje es_ES 
+ ¡Increíble oportunidad de comprar una encantadora casa de campo muy cerca de San Antonio! Te presentamos esta propiedad única, que cuenta con un terreno de 372 metros cuadrados y una casa de 130 metros cuadrados.
+
+La casa cuenta con tres habitaciones, un baño, una amplia sala de estar-comedor, una cocina equipada y una despensa. Además, esta propiedad cuenta con su propio pozo, lo que significa que tendrás un suministro de agua constante y sostenible.
+
+Además, esta propiedad incluye un estudio independiente que cuenta con una habitación, un acogedor salón con chimenea y una pequeña cocina, lo que lo hace ideal para alojar visitantes, amigos o incluso para usarlo como espacio de trabajo o de arte.
+
+Esta propiedad ofrece una ubicación ideal, muy cerca de San Antonio, lo que significa que tendrás acceso a tiendas, restaurantes, bares y lugares turísticos cercanos para disfrutar de la vida urbana en la isla.
+
+Si estás interesado en adquirir esta encantadora casa de campo, no dudes en contactarnos para programar una visita y conocer más detalles sobre esta increíble oportunidad. ¡Te esperamos!
+2023-04-21 18:14:42 - Respuesta API - Body: {"response":"\r\n\r\n\u00a1Incre\u00edble oportunidad de comprar una encantadora casa de campo muy cerca de San Antonio! Te presentamos esta propiedad \u00fanica, que cuenta con un terreno de 372 metros cuadrados y una casa de 130 metros cuadrados.\r\n\r\nLa casa cuenta con tres habitaciones, un ba\u00f1o, una amplia sala de estar-comedor, una cocina equipada y una despensa. Adem\u00e1s, esta propiedad cuenta con su propio pozo, lo que significa que tend"}
+2023-04-25 08:09:52 - Solicitando API - Post ID: 461720, Prompt: Reescribe este contenido en el código de lenguaje en_US 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 08:11:19 - Solicitando API - Post ID: 461720, Prompt: Reescribe este contenido en el código de lenguaje en_US 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 08:11:22 - Respuesta API - Body: {"response":"\r\n\r\nThis is an amazing opportunity to purchase a charming country house that is located very close to San Antonio. The property includes a plot of land that is 372 square meters and the house is 130 square meters. There are three bedrooms in the house, one bathroom, a spacious living room and dining room, a fully equipped kitchen, and a pantry. The property also comes with its own well, which means you will have a constant and sustainable water supply. There is also an independent studio on the property that has one bedroom, a cozy living room with a fireplace, and a small kitchen. This is a great opportunity to acquire a property that is close to San Antonio and all the shops, restaurants, bars, and tourist attractions. If you are interested, please contact us to schedule a visit and learn more about this incredible opportunity."}
+2023-04-25 08:21:37 - Solicitando API - Post ID: 461720, Prompt: Reescribe este contenido en formato HTML en el código de lenguaje en_US 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 08:31:57 - Solicitando API - Post ID: 461720, Prompt: Reescribe este contenido en formato HTML en el código de lenguaje en_US 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 08:32:29 - Solicitando API - Post ID: 461720, Prompt: Reescribe este contenido en formato HTML en el código de lenguaje en_US 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 08:34:19 - Solicitando API - Post ID: 461720, Prompt: Reescribe este contenido en formato HTML en el código de lenguaje en_US 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 08:44:20 - Solicitando API - Post ID: 461720, Prompt: Reescribe este contenido en formato HTML en el código de lenguaje en_US 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 08:45:23 - Solicitando API - Post ID: 461720, Prompt: Reescribe este contenido en formato HTML en el código de lenguaje en_US 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 08:49:42 - Solicitando API - Post ID: 461720, Prompt: Reescribe este contenido en formato HTML en el código de lenguaje en_US 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 08:49:43 - Respuesta API - Body: {"response":""}
+2023-04-25 08:52:02 - Solicitando API - Post ID: 461720, Prompt: Reescribe este contenido en formato HTML en el código de lenguaje en_US 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 08:57:37 - Solicitando API - Post ID: 461720, Prompt: Reescribe este contenido en formato HTML en el código de lenguaje en_US 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 09:06:18 - Solicitando API - Post ID: 461720, Prompt: Reescribe este contenido en formato HTML en el código de lenguaje en_US 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 09:06:29 - Respuesta API - Body: {"response":"&lt;br&gt;&lt;br&gt;\r\n\r\n&lt;b&gt;AMAZING OPPORTUNITY TO PURCHASE A CHARMING COUNTRY HOUSE LOCATED VERY CLOSE TO SAN ANTONIO!&lt;\/b&gt;&lt;br&gt;\r\nWe are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.&lt;br&gt;\r\nThe house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.&lt;br&gt;\r\nFurthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.&lt;br&gt;\r\nThis property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.&lt;br&gt;\r\nIf you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!<\/code>\n\n\n\nAMAZING OPPORTUNITY TO PURCHASE A CHARMING COUNTRY HOUSE LOCATED VERY CLOSE TO SAN ANTONIO!\nWe are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.\nThe house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.\nFurthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.\nThis property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.\nIf you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!"}
+2023-04-25 09:11:48 - Solicitando API - Post ID: 461720, Prompt: Como experto en Marketing de contenidos, reescribe este texto devolviendolo además en formato HTML en el código de lenguaje en_US 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 09:11:53 - Respuesta API - Body: {"response":"<\/code>\n\n\n\n<blockquote>\n<p><strong>Amazing opportunity to purchase a charming country house located very close to San Antonio!<\/strong> We are excited to present this unique\n  property, which features a plot of land of <strong>372 square meters<\/strong> and a\n  <strong>130 square meter<\/strong> house.<\/p>\n<p>The house includes three bedrooms, one bathroom, a spacious\n  living-dining room, a fully equipped kitchen, and a pantry. In\n  addition, the property comes with its own well, which means you will\n  have a constant and sustainable water supply.<\/p>\n<p>Furthermore, this property includes an independent studio that\n  features one bedroom, a cozy living room with a fireplace, and a small\n  kitchen, making it perfect for accommodating guests, friends, or even\n  using it as a workspace or art studio.<\/p>\n<p>This property offers an ideal location, very close to San Antonio,\n  which means you will have access to nearby shops, restaurants, bars,\n  and tourist attractions to enjoy urban life on the island.<\/p>\n<p>If you are interested in acquiring this charming country house, don't\n  hesitate to contact us to schedule a visit and learn more details about\n  this incredible opportunity. <strong>We look forward to hearing from you!<\/strong><\/p>\n<\/blockquote>"}
+2023-04-25 09:13:07 - Solicitando API - Post ID: 461720, Prompt: Como experto en Marketing de contenidos, reescribe este texto devolviendolo además en formato HTML en el código de lenguaje en_US. Por favor, separa los párrafos con etiquetas p 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 09:13:22 - Respuesta API - Body: {"response":"&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;AMAZING OPPORTUNITY TO PURCHASE A CHARMING COUNTRY HOUSE LOCATED VERY CLOSE TO SAN ANTONIO!&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.&lt;\/p&gt;\r\n&lt;p&gt;The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.&lt;\/p&gt;\r\n&lt;p&gt;&lt;strong&gt;FURTHERMORE, THIS PROPERTY INCLUDES AN INDEPENDENT STUDIO THAT FEATURES ONE BEDROOM, A COZY LIVING ROOM WITH A FIREPLACE, AND A SMALL KITCHEN, MAKING IT PERFECT FOR ACCOMMODATING GUESTS, FRIENDS, OR EVEN USING IT AS A WORKSPACE OR ART STUDIO.&lt;\/strong&gt;&lt;\/p&gt;\r\n&lt;p&gt;This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.&lt;\/p&gt;\r\n&lt;p&gt;If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!&lt;\/p&gt;<\/code>\n\n\n\n\n\nA:\n\n<code>&lt;p&gt;Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.&lt;\/p&gt;\n\n&lt;p&gt;The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.&lt;\/p&gt;\n\n&lt;p&gt;Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.&lt;\/p&gt;\n\n&lt;p&gt;This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.&lt;\/p&gt;\n\n&lt;p&gt;If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!&lt;\/p&gt;\n<\/code>\n"}
+2023-04-25 09:16:01 - Solicitando API - Post ID: 461720, Prompt: Como experto en Marketing de contenidos, reescribe este texto para que sea más comercial. Devuelve el resultado formateado en HTML y en el código de lenguaje en_US. Por favor, separa los párrafos con etiquetas p 
+ Amazing opportunity to purchase a charming country house located very close to San Antonio! We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house.
+
+The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.
+
+Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.
+
+This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.
+
+If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!
+2023-04-25 09:16:06 - Respuesta API - Body: {"response":"<\/p>\r\n\r\n<p>We are excited to present this unique property, which features a plot of land of 372 square meters and a 130 square meter house. The house includes three bedrooms, one bathroom, a spacious living-dining room, a fully equipped kitchen, and a pantry. In addition, the property comes with its own well, which means you will have a constant and sustainable water supply.<\/p>\r\n\r\n<p>Furthermore, this property includes an independent studio that features one bedroom, a cozy living room with a fireplace, and a small kitchen, making it perfect for accommodating guests, friends, or even using it as a workspace or art studio.<\/p>\r\n\r\n<p>This property offers an ideal location, very close to San Antonio, which means you will have access to nearby shops, restaurants, bars, and tourist attractions to enjoy urban life on the island.<\/p>\r\n\r\n<p>If you are interested in acquiring this charming country house, don't hesitate to contact us to schedule a visit and learn more details about this incredible opportunity. We look forward to hearing from you!<\/p>"}
+2023-04-25 09:20:49 - Solicitando API - Post ID: 459509, Prompt: Como experto en Marketing de contenidos, reescribe este texto para que sea más comercial. Devuelve el resultado formateado en HTML y en el código de lenguaje es_ES. Por favor, separa los párrafos con etiquetas p 
+ <p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">We are excited to present to you this stunning authentic finca in Sa Carroca with breathtaking views and a rental license. This property is perfect for those who value privacy, tranquility, and natural beauty.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">With a plot size of 105,000 square meters, this three-bedroom finca offers a spacious living area of 399 square meters. It features three bathrooms, ensuring that you and your guests have plenty of space and privacy. The finca has been beautifully renovated in 2013, providing a modern and comfortable living experience while maintaining its authentic charm.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">One of the highlights of this property is its location. Situated on a mountaintop, the finca offers panoramic views of the sea and the countryside. You can enjoy these stunning vistas from the comfort of your own infinity pool, which is perfect for relaxing or entertaining guests.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">Another standout feature of this finca is its rental license. This makes it an excellent investment opportunity for those looking to generate rental income. Whether you're looking for a primary residence or a vacation home that doubles as a rental property, this finca is an excellent option.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">At a price of 4.3 million euros, this authentic finca is a rare find that is not to be missed. There is a 5% commission to share, making it a great opportunity for real estate agents as well.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;"> Contact us today to schedule a viewing and experience the beauty of this amazing property for yourself.</span></p>
+2023-04-25 09:20:55 - Respuesta API - Body: {"response":"\n \n\n<p>We are excited to present to you this stunning authentic finca in Sa Carroca with breathtaking views and a rental license. This property is perfect for those who value privacy, tranquility, and natural beauty.<\/p>\n\n<p>With a plot size of 105,000 square meters, this three-bedroom finca offers a spacious living area of 399 square meters. It features three bathrooms, ensuring that you and your guests have plenty of space and privacy. The finca has been beautifully renovated in 2013, providing a modern and comfortable living experience while maintaining its authentic charm.<\/p>\n\n<p>One of the highlights of this property is its location. Situated on a mountaintop, the finca offers panoramic views of the sea and the countryside. You can enjoy these stunning vistas from the comfort of your own infinity pool, which is perfect for relaxing or entertaining guests.<\/p>\n\n<p>Another standout feature of this finca is its rental license. This makes it an excellent investment opportunity for those looking to generate rental income. Whether you're looking for a primary residence or a vacation home that doubles as a rental property, this finca is an excellent option.<\/p>\n\n<p>At a price of 4.3 million euros, this authentic finca is a rare find that is not to be missed. There is a 5% commission to share, making it a great opportunity for real estate agents as well.<\/p>\n\n<p>Contact us today to schedule a viewing and experience the beauty of this amazing property for yourself.<\/p>"}
+2023-04-25 09:25:44 - Solicitando API - Post ID: 459509, Prompt: Como experto en Marketing de contenidos, reescribe este texto para que sea más comercial. Devuelve el resultado formateado en HTML y siempre traducido en el código de lenguaje es_ES. Por favor, separa los párrafos con etiquetas p 
+ <p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">We are excited to present to you this stunning authentic finca in Sa Carroca with breathtaking views and a rental license. This property is perfect for those who value privacy, tranquility, and natural beauty.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">With a plot size of 105,000 square meters, this three-bedroom finca offers a spacious living area of 399 square meters. It features three bathrooms, ensuring that you and your guests have plenty of space and privacy. The finca has been beautifully renovated in 2013, providing a modern and comfortable living experience while maintaining its authentic charm.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">One of the highlights of this property is its location. Situated on a mountaintop, the finca offers panoramic views of the sea and the countryside. You can enjoy these stunning vistas from the comfort of your own infinity pool, which is perfect for relaxing or entertaining guests.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">Another standout feature of this finca is its rental license. This makes it an excellent investment opportunity for those looking to generate rental income. Whether you're looking for a primary residence or a vacation home that doubles as a rental property, this finca is an excellent option.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">At a price of 4.3 million euros, this authentic finca is a rare find that is not to be missed. There is a 5% commission to share, making it a great opportunity for real estate agents as well.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;"> Contact us today to schedule a viewing and experience the beauty of this amazing property for yourself.</span></p>
+2023-04-25 09:25:56 - Respuesta API - Body: {"response":"\n \n <p>\u00a1Estamos muy contentos de presentarles esta maravillosa y aut\u00e9ntica finca en Sa Carroca con unas vistas impresionantes y con licencia de alquiler! Esta propiedad es perfecta para aquellos que valoran la privacidad, la tranquilidad y la belleza natural.<\/p>\n<p>Con un tama\u00f1o de parcela de 10.5000 metros cuadrados, esta finca de tres dormitorios ofrece una amplia zona de estar de 399 metros cuadrados. Cuenta con tres ba\u00f1os, para que usted y sus invitados dispong\u00e1is de mucho espacio y privacidad. La finca fue renovada con mucho gusto en el a\u00f1o 2013, ofreciendo una experiencia de vida moderna y c\u00f3moda, pero manteniendo su encanto aut\u00e9ntico.<\/p>\n<p>Una de las mejores caracter\u00edsticas de esta propiedad es su ubicaci\u00f3n. Situada en la cima de una monta\u00f1a, la finca ofrece unas impresionantes vistas panor\u00e1micas del mar y del campo. Podr\u00e1 disfrutar de estas espectaculares vistas desde la comodidad de su propia piscina de borde infinito, que es perfecta para relajarse o para entretener a los invitados.<\/p>\n<p>Otra caracter\u00edstica sobresaliente de esta finca es su licencia de alquiler. Esto la convierte en una excelente oportunidad de inversi\u00f3n para aquellos que buscan obtener ingresos por alquiler. Ya sea que est\u00e9 buscando una residencia principal o una casa de vacaciones que tambi\u00e9n sirva como propiedad de alquiler, esta finca es una excelente opci\u00f3n.<\/p>\n<p>A un precio de 4,3 millones de euros, esta aut\u00e9ntica finca es una joya que no se puede perder. Hay una comisi\u00f3n del 5% para compartir, lo que la convierte en una gran oportunidad para los agentes inmobiliarios tambi\u00e9n.<\/p>\n<p>\u00a1Cont\u00e1ctanos hoy para programar una visita y experimentar la belleza de esta incre\u00edble propiedad por ti mismo!<\/p>"}
+2023-04-25 09:42:28 - Solicitando API - Post ID: 459509, Prompt: Como experto en Marketing de contenidos, reescribe este texto para que sea más comercial. Devuelve el resultado formateado en HTML y siempre traducido en el código de lenguaje es_ES. Por favor, separa los párrafos con etiquetas p 
+ <p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">We are excited to present to you this stunning authentic finca in Sa Carroca with breathtaking views and a rental license. This property is perfect for those who value privacy, tranquility, and natural beauty.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">With a plot size of 105,000 square meters, this three-bedroom finca offers a spacious living area of 399 square meters. It features three bathrooms, ensuring that you and your guests have plenty of space and privacy. The finca has been beautifully renovated in 2013, providing a modern and comfortable living experience while maintaining its authentic charm.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">One of the highlights of this property is its location. Situated on a mountaintop, the finca offers panoramic views of the sea and the countryside. You can enjoy these stunning vistas from the comfort of your own infinity pool, which is perfect for relaxing or entertaining guests.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">Another standout feature of this finca is its rental license. This makes it an excellent investment opportunity for those looking to generate rental income. Whether you're looking for a primary residence or a vacation home that doubles as a rental property, this finca is an excellent option.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;">At a price of 4.3 million euros, this authentic finca is a rare find that is not to be missed. There is a 5% commission to share, making it a great opportunity for real estate agents as well.</span></p>
+<p class="MsoNormal"><span lang="FR" style="mso-ansi-language: FR;"> Contact us today to schedule a viewing and experience the beauty of this amazing property for yourself.</span></p>
+2023-04-25 09:42:40 - Respuesta API - Body: {"response":"\n\n<p>Estamos encantados de presentarle esta impresionante y aut\u00e9ntica finca en Sa Carroca con vistas impresionantes y una licencia de alquiler. Esta propiedad es perfecta para aquellos que valoran la privacidad, la tranquilidad y la belleza natural.<\/p>\n<p>Con una superficie de 10.500 m\u00b2, esta finca de tres dormitorios ofrece una amplia zona de estar de 399 m\u00b2. Cuenta con tres ba\u00f1os, para que usted y sus invitados disfruten de un amplio espacio y privacidad. La finca se renov\u00f3 por completo en 2013, lo que le brinda una experiencia de vida moderna y c\u00f3moda, manteniendo su encanto aut\u00e9ntico.<\/p>\n<p>Una de las principales caracter\u00edsticas de esta propiedad es su ubicaci\u00f3n. Situada en la cima de una monta\u00f1a, la finca ofrece unas impresionantes vistas panor\u00e1micas del mar y del campo. Podr\u00e1 disfrutar de estas impresionantes vistas desde la comodidad de su propia piscina de borde infinito, perfecta para relajarse o entretener a los invitados.<\/p>\n<p>Otra caracter\u00edstica destacada de esta finca es su licencia de alquiler. Esto la convierte en una excelente oportunidad de inversi\u00f3n para aquellos que buscan generar ingresos por alquiler. Ya sea que est\u00e9 buscando una residencia principal o una casa de vacaciones que tambi\u00e9n sirva como propiedad de alquiler, esta finca es una excelente opci\u00f3n.<\/p>\n<p>A un precio de 4,3 millones de euros, esta aut\u00e9ntica finca es un hallazgo raro que no debe perderse. Hay una comisi\u00f3n del 5% para compartir, lo que la convierte en una gran oportunidad para los agentes inmobiliarios tambi\u00e9n.<\/p>\n<p>Cont\u00e1ctenos hoy para programar una visita y experimentar la belleza de esta incre\u00edble propiedad por usted mismo.<\/p>"}
+2023-07-14 06:37:55 - Solicitando API - Post ID: 1953, Prompt: Como experto en Marketing de contenidos, reescribe este texto para que sea más comercial. Devuelve el resultado formateado en HTML y siempre traducido en el código de lenguaje . Por favor, separa los párrafos con etiquetas p 
+ 
+2023-07-14 06:38:00 - Respuesta API - Body: {"response":"\n\nEl contenido de nuestro sitio web se crea con el objetivo de ofrecer informaci\u00f3n \u00fatil y de calidad a nuestros lectores. Nos esforzamos por mantener un buen nivel de calidad en todo el contenido del sitio, y esperamos que nuestros lectores lo disfruten.\n\n<p>Nuestro sitio web ofrece informaci\u00f3n de calidad \u00fatil para nuestros lectores. Trabajamos duro para mantener un alto nivel de calidad en todo el contenido del sitio y esperamos que nuestros lectores puedan disfrutarlo.<\/p>"}
+2023-07-14 06:38:15 - Solicitando API - Post ID: 1763, Prompt: Como experto en Marketing de contenidos, reescribe este texto para que sea más comercial. Devuelve el resultado formateado en HTML y siempre traducido en el código de lenguaje . Por favor, separa los párrafos con etiquetas p 
+ 
+2023-07-14 06:38:24 - Respuesta API - Body: {"response":"\n\nEl marketing de contenidos consiste en crear y compartir materiales como videos, blog posts, infograf\u00edas y otros contenidos en l\u00ednea con el objetivo de atraer a nuevos clientes potenciales y fomentar las relaciones con los clientes existentes. \n\n<p>El marketing de contenidos es una estrategia de marketing que se centra en la creaci\u00f3n y compartici\u00f3n de materiales de valor, como blog posts, videos, infograf\u00edas y otros contenidos en l\u00ednea, con el objetivo de atraer a nuevos clientes potenciales y fomentar las relaciones con los clientes existentes.<\/p> \n\n<p>La clave del marketing de contenidos est\u00e1 en crear contenido relevante y de alta calidad que atraiga a los clientes potenciales y los anime a realizar una acci\u00f3n, como suscribirse a un bolet\u00edn o comprar un producto.<\/p>"}
